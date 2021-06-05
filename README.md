@@ -11,8 +11,7 @@ Here are some ideas to get you started:
     I'm a <b> Sophomore Computer Science Engineering</b> student.
   </em>
 </p>
-  
-  <img align="right" alt="GIF" src="https://gph.is/g/4DWjNwn" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" />
     
 ## 👨🏻‍💻 &nbsp;About Me
 
