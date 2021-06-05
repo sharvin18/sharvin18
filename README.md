@@ -73,6 +73,19 @@ Here are some ideas to get you started:
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
+<details open="">
+  <summary><strong>⭐️ My Github Stats</strong></summary>
+  <br>
+  
+  <p align="center">
+    <a href="https://github.com/sharvin18">
+      <img width="65%" src="https://github-readme-stats.vercel.app/api?username=sharvin18&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />
+      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvin18&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook" />
+    </a>
+  </p>
+  
+</details>
+<br />
 
 ---
 
