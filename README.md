@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 <br />
 
 <details open="">
-  ## <summary><strong>⭐️ My Github Stats</strong></summary>
-  <br>
+  <summary><strong>⭐️ My Github Stats</strong></summary>
+  <br />
   
   <p align="center">
     <a href="https://github.com/sharvin18">
