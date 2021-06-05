@@ -12,6 +12,8 @@ Here are some ideas to get you started:
   </em>
 </p>
   
+  <img align="right" alt="GIF" src="https://gph.is/g/4DWjNwn" />
+    
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently open to development in Android Application/Web Development.
