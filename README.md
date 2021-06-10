@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love sports and play almost all of them.
 - 📧 Contact me at dedhiasharvin@gmail.com
 
-## 👯&nbsp;Connect with me:
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/sharvin18/sharvin18/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
 
 
 <a href="https://www.codechef.com/users/sharvin18" target="_blank">
