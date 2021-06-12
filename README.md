@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ## 🛠 &nbsp;Languages and Tools:
 
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Python" src="https://img.shields.io/badge/-Python-071a52?style=for-the-badge&logo=Python" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23007ACC.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css-yellow?&style=for-the-badge&logo=css3" height="30"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-071a52?&style=for-the-badge&logo=Flutter" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" height="30"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-green?&style=for-the-badge&logo=Firebase" height="30"> <img alt="Sql" src="https://img.shields.io/badge/Sql%20-%231572B6?&style=for-the-badge&logo=Sql" height="30">
+<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Python" src="https://img.shields.io/badge/-Python-071a52?style=for-the-badge&logo=Python" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23007ACC.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css-yellow?&style=for-the-badge&logo=css3" height="30"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-071a52?&style=for-the-badge&logo=Flutter" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart" height="30"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%231572B6?&style=for-the-badge&logo=Firebase" height="30"> <img alt="Sql" src="https://img.shields.io/badge/Sql-green?&style=for-the-badge&logo=Sql" height="30">
 
 <br />
 
@@ -82,6 +82,10 @@ Here are some ideas to get you started:
   
 </details>
 <br />
+
+---
+
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=sharvin18&theme=redical)](https://github.com/sharvin18/github-readme-activity-graph)
 
 ---
 
