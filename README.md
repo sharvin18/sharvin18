@@ -71,8 +71,8 @@ Here are some ideas to get you started:
   
   <p>
     <a href="https://github.com/sharvin18">
-      <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sharvin18&count_private=true&show_icons=true&theme=tokyonight" />
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvin18&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" />
+      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=sharvin18&count_private=true&show_icons=true&theme=tokyonight" />
+      <img width="32%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvin18&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" />
     </a>
   </p>
   
