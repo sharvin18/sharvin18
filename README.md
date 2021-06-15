@@ -41,10 +41,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Sharvin's Hackerrank" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 
-<br />
-<br />
-<br />
-
 <a href="https://www.linkedin.com/in/sharvin-dedhia" target="_blank">
   <img align="left" alt="Sharvin's LinkdeIn" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
