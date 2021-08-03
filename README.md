@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to development in Android Application/Web Development.
 - 🌱 I’m currently learning everything that interests me.
 - 🥅 2021 Goals: Contribute to Open Source projects.
-- 📧 [Email](dedhiasharvin@gmail.com)
+- 📧 Email - dedhiasharvin@gmail.com
 
 <h1>
   Connect With Me <a target="_blank">
