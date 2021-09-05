@@ -14,7 +14,7 @@ Here are some ideas to get you started:
     
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently open to development in Android Application/Web Development.
+- 🔭 I’m currently open to development in Android Application/Web Development/Machine Learning.
 - 🌱 I’m currently learning everything that interests me.
 - 🥅 2021 Goals: Contribute to Open Source projects.
 - 📧 Email - dedhiasharvin@gmail.com
