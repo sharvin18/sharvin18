@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    I'm a <b> Sophomore Computer Science Engineering</b> student.
+    I'm a <b> Pre-final year Computer Science Engineering</b> student.
   </em>
 </p>
     
